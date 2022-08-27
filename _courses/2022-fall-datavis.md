@@ -8,6 +8,8 @@ instructors:
 tas:
 time: T/H 03:05pm-04:25pm
 location: HH B103
+TAs:
+  - Fernie Yiluo Qin
 redirect_from:
   - vis2022
 ---
